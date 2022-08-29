@@ -43,6 +43,10 @@ ul {
   padding-left: 15px;
 }
 
+.pr-15 {
+  padding-right: 15px;
+}
+
 .px-15 {
   padding: 15px 0px;
 }
